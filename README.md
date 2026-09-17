@@ -45,5 +45,5 @@ This project requires the following libraries. Install them via the Arduino IDE 
 *(If using a different IR remote, open the Serial Monitor at 115200 baud, press your desired buttons to find their unique hex codes, and update the `0x16` and `0x19` values in the `loop()` function).*
 
 ## Author
-**Lakhlef Zine Elabidine Islam (Zino)**  
-Autonomous Systems Engineering Student, ENSTSA
+**Lakhlef Zine Elabidine Islam (Zinou)**  
+Autonomous Systems Engineering Student, National Higher School Of Autonomous Systems Technology
